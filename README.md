@@ -7,8 +7,14 @@
      "Amineelmoumen/Amineelmoumen" (repo spécial de profil GitHub)
   2. IMPORTANT : uploader aussi les fichiers banner.svg ET
      skills-architecture.svg à la RACINE du même repo (à côté du
-     README.md) — c'est ce qui garantit un rendu 100% fiable,
-     sans dépendre d'un service externe instable
+     README.md). Les images sont chargées via cdn.jsdelivr.net
+     (et non en chemin relatif) car GitHub sert les SVG hébergés
+     dans un repo avec un mauvais type de contenu, ce qui empêche
+     leur affichage — jsDelivr contourne ce problème connu.
+     ⚠️ Après un nouvel upload/modification d'un SVG, jsDelivr peut
+     mettre jusqu'à 24h à rafraîchir son cache. Pour forcer une
+     mise à jour immédiate, purge le cache ici :
+     https://www.jsdelivr.com/tools/purge
   3. Remplacer [EMAIL] par ton adresse email pro si tu veux l'exposer
   4. Ajoute un lien "Portfolio" si tu en construis un un jour
   5. Les stats (github-readme-stats, streak-stats) restent des services
@@ -19,7 +25,7 @@
 
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Amine El Moumen — AI & Data Science Student · Fullstack Web Developer"/>
+<img src="https://cdn.jsdelivr.net/gh/Amineelmoumen/Amineelmoumen@main/banner.svg" width="100%" alt="Amine El Moumen — AI & Data Science Student · Fullstack Web Developer"/>
 
 <br/><br/>
 
@@ -82,7 +88,7 @@ Je n'ai pas listé mes compétences par ordre alphabétique. Je les ai organisé
 
 <div align="center">
 
-<img src="./skills-architecture.svg" width="100%" alt="Compétences organisées en couches d'architecture logicielle : Interface, Logique Applicative, Données, Intelligence, Infrastructure"/>
+<img src="https://cdn.jsdelivr.net/gh/Amineelmoumen/Amineelmoumen@main/skills-architecture.svg" width="100%" alt="Compétences organisées en couches d'architecture logicielle : Interface, Logique Applicative, Données, Intelligence, Infrastructure"/>
 
 </div>
 
@@ -304,6 +310,6 @@ Ouvert aux opportunités de stage, d'alternance et de collaboration sur des proj
 
 <br/>
 
-<img src="./banner.svg" width="100%" alt="footer"/>
+<img src="https://cdn.jsdelivr.net/gh/Amineelmoumen/Amineelmoumen@main/banner.svg" width="100%" alt="footer"/>
 
 </div>
