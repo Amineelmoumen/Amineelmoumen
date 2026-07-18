@@ -1,22 +1,20 @@
 <!--
   ============================================================
-  PROFIL GITHUB — AMINE EL MOUMEN (Amineelmoumen)
+  GITHUB PROFILE — AMINE EL MOUMEN (Amineelmoumen)
   ============================================================
-  📌 À FAIRE avant publication :
-  1. Ce README doit être placé dans un repo nommé exactement
-     "Amineelmoumen/Amineelmoumen" (repo spécial de profil GitHub)
-  2. IMPORTANT : uploader banner.png ET skills-architecture.png
-     (PAS les .svg) à la RACINE du même repo, à côté du README.md.
-     Le format PNG est utilisé volontairement : GitHub sert les SVG
-     hébergés dans un repo avec un mauvais type de contenu (bug
-     connu), ce qui empêche leur affichage. Le PNG n'a pas ce
-     problème et fonctionne de manière garantie, sans dépendre
-     d'aucun service externe.
-  3. Remplacer [EMAIL] par ton adresse email pro si tu veux l'exposer
-  4. Ajoute un lien "Portfolio" si tu en construis un un jour
-  5. Les stats (github-readme-stats, streak-stats) restent des services
-     externes tiers — généralement fiables, mais peuvent occasionnellement
-     tomber en rate-limit (voir note plus bas)
+  📌 TODO before publishing:
+  1. Place this README in a repo named exactly
+     "Amineelmoumen/Amineelmoumen" (special GitHub profile repo)
+  2. IMPORTANT: upload banner.png AND skills-architecture.png
+     (NOT .svg) to the ROOT of the same repo, next to README.md.
+     PNG format is used intentionally: GitHub serves SVGs hosted in
+     a repo with the wrong content type (known bug), preventing display.
+     PNG doesn't have this issue and works reliably, without depending
+     on any external service.
+  3. Add a "Portfolio" link if you build one someday
+  4. Stats (github-readme-stats, streak-stats) remain third-party
+     services — generally reliable, but may occasionally hit
+     rate limits (see note below)
   ============================================================
 -->
 
@@ -26,95 +24,95 @@
 
 <br/><br/>
 
-<em>Étudiant en IA & Data Science @ EMSI · Fullstack Developer · Java · Python · JavaScript</em>
+<em>AI & Data Science Student @ EMSI · Fullstack Developer · Java · Python · JavaScript</em>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-el-moumen/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL])
-[![Location](https://img.shields.io/badge/Maroc-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amineelmoumen699@gmail.com)
+[![Location](https://img.shields.io/badge/Morocco-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-## 👋 Qui suis-je ?
+## 👋 Who am I?
 
-Étudiant en **Intelligence Artificielle & Data Science** à l'**École Marocaine des Sciences de l'Ingénieur (EMSI)**, je me forme en parallèle en développement Fullstack — parce que je crois qu'un bon ingénieur IA doit aussi savoir construire, déployer et maintenir le produit qui portera ses modèles.
+**AI & Data Science** student at the **Moroccan School of Engineering Sciences (EMSI)**, while simultaneously training in Fullstack development — because I believe a good AI engineer should also know how to build, deploy, and maintain the product that will carry their models.
 
-Mon approche : ne pas empiler les connaissances théoriques, mais les valider sur le terrain — stages, projets personnels, certifications pratiques. Depuis un an, j'ai suivi une trentaine de formations spécialisées (IBM, Coursera, LinkedIn Learning) pour construire une base solide en développement web, cloud, DevOps et intelligence artificielle.
+My approach: don't just pile up theoretical knowledge, but validate it in the field — internships, personal projects, practical certifications. Over the past year, I've completed about 30 specialized trainings (IBM, Coursera, LinkedIn Learning) to build a solid foundation in web development, cloud, DevOps, and artificial intelligence.
 
 ```txt
 class AmineElMoumen implements Engineer {
-    private String formation   = "AI & Data Science — EMSI";
-    private String[] domaines  = {"Fullstack Development", "Data Science", "DevOps", "AI"};
-    private String mindset     = "Apprendre en construisant, pas seulement en lisant";
-    private boolean curious    = true; // toujours vrai
+    private String education   = "AI & Data Science — EMSI";
+    private String[] domains   = {"Fullstack Development", "Data Science", "DevOps", "AI"};
+    private String mindset     = "Learn by building, not just by reading";
+    private boolean curious    = true; // always true
 }
 ```
 
 <br/>
 
-## 🎓 Formation & Expérience
+## 🎓 Education & Experience
 
-**Formation**
-- 🏫 **École Marocaine des Sciences de l'Ingénieur (EMSI)** — AI & Data Science
+**Education**
+- 🏫 **Moroccan School of Engineering Sciences (EMSI)** — AI & Data Science
 
-**Expérience professionnelle**
+**Professional Experience**
 
-| Poste | Structure | Période | Contexte |
+| Role | Organization | Period | Context |
 |---|---|---|---|
-| 💻 Stagiaire | **Southydraulic** | Juil. 2025 | Développement d'une solution web innovante pour la gestion de projets hydrauliques |
-| 🏥 Stagiaire en ingénierie informatique | **Clinique La Vallée** (Secteur Santé) | Juil. 2024 | Participation à la refonte du système d'information : analyse des besoins et proposition de solutions techniques |
+| 💻 Intern | **Southydraulic** | Jul. 2025 | Development of an innovative web solution for hydraulic project management |
+| 🏥 IT Engineering Intern | **Clinique La Vallée** (Healthcare) | Jul. 2024 | Participation in the information system overhaul: needs analysis and technical solution proposals |
 
 <br/>
 
-## 🎯 Ma vision de l'ingénierie
+## 🎯 My engineering vision
 
-> La technologie a de la valeur seulement quand elle résout un vrai problème — pas quand elle empile des frameworks à la mode.
+> Technology has value only when it solves a real problem — not when it piles up trendy frameworks.
 
-- 🧱 **Apprendre par la pratique** — chaque certification que je suis est choisie pour combler un manque concret, pas pour remplir un CV
-- 🔄 **Relier IA et ingénierie logicielle** — un modèle sans produit qui le porte n'a pas d'impact
-- 📖 **Comprendre avant d'implémenter** — le "pourquoi" compte autant que le "comment"
+- 🧱 **Learn by doing** — every certification I pursue is chosen to fill a concrete gap, not to pad a CV
+- 🔄 **Bridge AI and software engineering** — a model without a product to carry it has no impact
+- 📖 **Understand before implementing** — the "why" matters as much as the "how"
 
 <br/>
 
-## 🛠️ Stack technique — vue comme une architecture, pas comme une liste
+## 🛠️ Tech Stack — viewed as an architecture, not as a list
 
-Je n'ai pas listé mes compétences par ordre alphabétique. Je les ai organisées comme je construirais un vrai système : de ce que l'utilisateur voit jusqu'à ce qui fait tourner le tout en coulisses. C'est aussi ça, ma façon de penser l'ingénierie.
+I didn't list my skills alphabetically. I organized them the way I'd build a real system: from what the user sees to what runs everything behind the scenes. This is how I think about engineering.
 
 <div align="center">
 
-<img src="./skills-architecture.png" width="100%" alt="Compétences organisées en couches d'architecture logicielle : Interface, Logique Applicative, Données, Intelligence, Infrastructure"/>
+<img src="./skills-architecture.png" width="100%" alt="Skills organized in software architecture layers: Interface, Application Logic, Data, Intelligence, Infrastructure"/>
 
 </div>
 
 <br/>
 
-## 🚀 Projets phares
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💧 Solution Web — Gestion de Projets Hydrauliques
+### 💧 Web Solution — Hydraulic Project Management
 
-**Contexte** : développée durant mon stage chez Southydraulic.
+**Context**: developed during my internship at Southydraulic.
 
-**Objectif** : digitaliser le suivi des projets hydrauliques de l'entreprise avec une interface web dédiée.
+**Goal**: digitize the tracking of the company's hydraulic projects with a dedicated web interface.
 
-**Ce que ce projet démontre** : capacité à comprendre un besoin métier concret et à le traduire en solution technique utilisable en production.
+**What this project demonstrates**: ability to understand a concrete business need and translate it into a production-ready technical solution.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Refonte du Système d'Information — Clinique La Vallée
+### 🏥 Information System Overhaul — Clinique La Vallée
 
-**Contexte** : stage au service informatique du secteur santé.
+**Context**: internship in the healthcare sector's IT department.
 
-**Objectif** : analyser les besoins existants et proposer des solutions pour moderniser le système d'information.
+**Goal**: analyze existing needs and propose solutions to modernize the information system.
 
-**Ce que ce projet démontre** : rigueur d'analyse dans un environnement à forte exigence (données sensibles, continuité de service).
+**What this project demonstrates**: analytical rigor in a high-stakes environment (sensitive data, service continuity).
 
 </td>
 </tr>
@@ -123,22 +121,22 @@ Je n'ai pas listé mes compétences par ordre alphabétique. Je les ai organisé
 
 ### 📱 DevMobile — EmploiPub
 
-**Objectif** : application Android permettant de rechercher et gérer des offres d'emploi depuis une interface mobile intuitive.
+**Goal**: Android application for searching and managing job offers from an intuitive mobile interface.
 
-**Stack** : `Java` · Android SDK
+**Stack**: `Java` · Android SDK
 
-[![Repo](https://img.shields.io/badge/Voir_le_code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amineelmoumen/DevMobile)
+[![Repo](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amineelmoumen/DevMobile)
 
 </td>
 <td width="50%" valign="top">
 
 ### ✅ Todo App
 
-**Objectif** : application de gestion de tâches, terrain d'expérimentation pour les patterns front-end.
+**Goal**: task management application, a testing ground for front-end patterns.
 
-**Stack** : `JavaScript`
+**Stack**: `JavaScript`
 
-[![Repo](https://img.shields.io/badge/Voir_le_code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amineelmoumen/todo-app)
+[![Repo](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amineelmoumen/todo-app)
 
 </td>
 </tr>
@@ -146,24 +144,24 @@ Je n'ai pas listé mes compétences par ordre alphabétique. Je les ai organisé
 
 <br/>
 
-## 📜 Certifications & Formations
+## 📜 Certifications & Training
 
-Plus de 30 formations complétées, choisies pour construire une base cohérente entre développement logiciel, cloud/DevOps et intelligence artificielle.
+Over 30 completed trainings, chosen to build a cohesive foundation between software development, cloud/DevOps, and artificial intelligence.
 
-### 🏆 Professional Certificates & Spécialisations
+### 🏆 Professional Certificates & Specializations
 
-| Certification | Organisme | Détail |
+| Certification | Organization | Details |
 |---|---|---|
-| [IBM DevOps and Software Engineering](https://www.coursera.org/specializations/devops-and-software-engineering) | IBM | Professional Certificate · 15 cours |
-| [IBM Full Stack Software Developer](https://www.coursera.org/specializations/ibm-full-stack-cloud-developer) | IBM | Professional Certificate · 12 cours |
-| [IBM AI Developer](https://www.coursera.org/specializations/applied-artifical-intelligence-ibm-watson-ai) | IBM | Professional Certificate · 7 cours |
-| [Core Java](https://www.coursera.org/specializations/core-java) | LearnQuest | Specialization · 4 cours |
-| [Coding for Everyone: C and C++](https://www.coursera.org/specializations/coding-for-everyone) | UC Santa Cruz | Specialization · 4 cours |
-| [ITIL 4 Certification](https://www.coursera.org/specializations/itil-4-certification) | EDUCBA | Specialization · 4 cours |
-| [IBM Generative AI Engineering](https://www.coursera.org/specializations/ibm-generative-ai-engineering) | IBM | Specialization · en cours (16 cours) |
+| [IBM DevOps and Software Engineering](https://www.coursera.org/specializations/devops-and-software-engineering) | IBM | Professional Certificate · 15 courses |
+| [IBM Full Stack Software Developer](https://www.coursera.org/specializations/ibm-full-stack-cloud-developer) | IBM | Professional Certificate · 12 courses |
+| [IBM AI Developer](https://www.coursera.org/specializations/applied-artifical-intelligence-ibm-watson-ai) | IBM | Professional Certificate · 7 courses |
+| [Core Java](https://www.coursera.org/specializations/core-java) | LearnQuest | Specialization · 4 courses |
+| [Coding for Everyone: C and C++](https://www.coursera.org/specializations/coding-for-everyone) | UC Santa Cruz | Specialization · 4 courses |
+| [ITIL 4 Certification](https://www.coursera.org/specializations/itil-4-certification) | EDUCBA | Specialization · 4 courses |
+| [IBM Generative AI Engineering](https://www.coursera.org/specializations/ibm-generative-ai-engineering) | IBM | Specialization · in progress (16 courses) |
 
 <details>
-<summary><b>🤖 Intelligence Artificielle & Data Science (cliquer pour dérouler)</b></summary>
+<summary><b>🤖 Artificial Intelligence & Data Science (click to expand)</b></summary>
 <br/>
 
 - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai/home/welcome) — IBM
@@ -185,7 +183,7 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 </details>
 
 <details>
-<summary><b>🌐 Développement Web & Logiciel (cliquer pour dérouler)</b></summary>
+<summary><b>🌐 Web & Software Development (click to expand)</b></summary>
 <br/>
 
 - [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript/home/welcome) — IBM
@@ -201,7 +199,7 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 </details>
 
 <details>
-<summary><b>☁️ Cloud, DevOps & Systèmes (cliquer pour dérouler)</b></summary>
+<summary><b>☁️ Cloud, DevOps & Systems (click to expand)</b></summary>
 <br/>
 
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops/home/welcome) — IBM
@@ -222,7 +220,7 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 </details>
 
 <details>
-<summary><b>📡 Réseaux & Systèmes embarqués (cliquer pour dérouler)</b></summary>
+<summary><b>📡 Networks & Embedded Systems (click to expand)</b></summary>
 <br/>
 
 - [Basics of Cisco Networking](https://www.coursera.org/learn/basics-of-cisco-networking/home/welcome) — LearnQuest
@@ -235,7 +233,7 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 </details>
 
 <details>
-<summary><b>📊 Gestion de projet, Gouvernance & Outils (cliquer pour dérouler)</b></summary>
+<summary><b>📊 Project Management, Governance & Tools (click to expand)</b></summary>
 <br/>
 
 - [Agile Project Management](https://www.coursera.org/learn/agile-project-management/home/welcome) — Google (via Honoris)
@@ -249,18 +247,18 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 </details>
 
 <details>
-<summary><b>🖥️ Langages & Fondamentaux (cliquer pour dérouler)</b></summary>
+<summary><b>🖥️ Languages & Fundamentals (click to expand)</b></summary>
 <br/>
 
 - Master Java, Python, C & C++: All-in-One Programming Course — Udemy
 - Java Fundamentals Course For Beginners — Udemy
-- Core Java (4 cours : Introduction to Java, OOP with Java, Object-Oriented Hierarchies, Java Class Library) — LearnQuest
-- Coding for Everyone (4 cours : C fondamentaux et structuré, C++ Parts A & B) — UC Santa Cruz
+- Core Java (4 courses: Introduction to Java, OOP with Java, Object-Oriented Hierarchies, Java Class Library) — LearnQuest
+- Coding for Everyone (4 courses: C fundamentals and structured programming, C++ Parts A & B) — UC Santa Cruz
 
 </details>
 
 <details>
-<summary><b>🌍 Langues & Culture (cliquer pour dérouler)</b></summary>
+<summary><b>🌍 Languages & Culture (click to expand)</b></summary>
 <br/>
 
 - [Étudier en France: French Intermediate course B1–B2](https://www.coursera.org/learn/etudier-en-france/home/welcome) — École Polytechnique
@@ -268,10 +266,9 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 
 </details>
 
-
 <br/>
 
-## 📊 Activité & Statistiques
+## 📊 Activity & Statistics
 
 <div align="center">
 
@@ -286,24 +283,24 @@ Plus de 30 formations complétées, choisies pour construire une base cohérente
 
 <br/>
 
-## 🧭 Feuille de route 2026–2027
+## 🧭 Roadmap 2026–2027
 
-- [ ] Approfondir le Machine Learning et le Deep Learning appliqués
-- [ ] Construire un projet complet alliant IA et développement web (bout en bout)
-- [ ] Contribuer à un projet open source
-- [ ] Décrocher un stage/alternance en IA Engineering ou Fullstack Development
-- [ ] Publier mes premiers retours d'expérience techniques
+- [ ] Deepen applied Machine Learning and Deep Learning
+- [ ] Build a complete project combining AI and web development (end-to-end)
+- [ ] Contribute to an open-source project
+- [ ] Secure an internship/apprenticeship in AI Engineering or Fullstack Development
+- [ ] Publish my first technical feedback/experience articles
 
 <br/>
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 <div align="center">
 
-Ouvert aux opportunités de stage, d'alternance et de collaboration sur des projets IA / Fullstack.
+Open to internship, apprenticeship, and collaboration opportunities on AI / Fullstack projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-el-moumen/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amineelmoumen699@gmail.com)
 
 <br/>
 
