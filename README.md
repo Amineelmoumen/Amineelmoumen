@@ -77,117 +77,68 @@ class AmineElMoumen implements Engineer {
 
 <br/>
 
-## 🛠️ Tech Stack — viewed as an architecture, not as a list
-
-I organize my skills by how they work together in a real system — from user interface down to infrastructure. Every skill listed here is demonstrated through projects, certifications, or professional experience.
-
+🛠️ Tech Stack
 <div align="center">
+💻 Programming Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-### 🖥️ Programming Languages
+🤖 Artificial Intelligence & Machine Learning
+https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white
+https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black
+https://img.shields.io/badge/Online_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/Classification-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/Feature_Engineering-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+📊 Data Science
+https://img.shields.io/badge/Data_Preprocessing-3776AB?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/EDA-3776AB?style=for-the-badge&logo=jupyter&logoColor=white
+https://img.shields.io/badge/Data_Visualization-3776AB?style=for-the-badge&logo=plotly&logoColor=white
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 
-### 🤖 Artificial Intelligence & Machine Learning
+⚙️ MLOps & DevOps
+https://img.shields.io/badge/MLOps-0066FF?style=for-the-badge&logo=mlflow&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+https://img.shields.io/badge/Monitoring-FF6C37?style=for-the-badge&logo=grafana&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![AutoML](https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Online Learning](https://img.shields.io/badge/Online_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+🌐 Backend Development
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
-### 🧠 LLM & Generative AI
+🎨 Frontend Development
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white
 
-![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![AI Assistants](https://img.shields.io/badge/AI_Assistants-00C7B7?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-00C7B7?style=for-the-badge&logo=openai&logoColor=white)
+🗄️ Databases
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
 
-### 📊 Data Science
-
-![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-3776AB?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge&logo=pandas&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
-
-### ⚙️ MLOps
-
-![MLOps](https://img.shields.io/badge/MLOps-0066FF?style=for-the-badge&logo=mlflow&logoColor=white)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-0066FF?style=for-the-badge&logo=docker&logoColor=white)
-![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-0066FF?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Experiment Tracking](https://img.shields.io/badge/Experiment_Tracking-0066FF?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### 🌐 Backend Development
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Monitoring](https://img.shields.io/badge/Monitoring-FF6C37?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🧩 Software Engineering
-
-![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-007396?style=for-the-badge&logo=java&logoColor=white)
-![Modular Development](https://img.shields.io/badge/Modular_Development-007396?style=for-the-badge&logo=java&logoColor=white)
-![Version Control](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### 📚 Libraries & Frameworks
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+🛠️ Tools & Libraries
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
 </div>
-
-<br/>
 
 ### 📋 Skills Justification
 
