@@ -1,23 +1,3 @@
-<!--
-  ============================================================
-  GITHUB PROFILE — AMINE EL MOUMEN (Amineelmoumen)
-  ============================================================
-  📌 TODO before publishing:
-  1. Place this README in a repo named exactly
-     "Amineelmoumen/Amineelmoumen" (special GitHub profile repo)
-  2. IMPORTANT: upload banner.png AND skills-architecture.png
-     (NOT .svg) to the ROOT of the same repo, next to README.md.
-     PNG format is used intentionally: GitHub serves SVGs hosted in
-     a repo with the wrong content type (known bug), preventing display.
-     PNG doesn't have this issue and works reliably, without depending
-     on any external service.
-  3. Add a "Portfolio" link if you build one someday
-  4. Stats (github-readme-stats, streak-stats) remain third-party
-     services — generally reliable, but may occasionally hit
-     rate limits (see note below)
-  ============================================================
--->
-
 <div align="center">
 
 <img src="./banner.png" width="100%" alt="Amine El Moumen — AI & Data Science Student · Fullstack Web Developer"/>
@@ -31,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-el-moumen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amineelmoumen699@gmail.com)
 [![Location](https://img.shields.io/badge/Morocco-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amineelmoumen.vercel.app/)
 
 </div>
 
@@ -49,7 +30,7 @@ class AmineElMoumen implements Engineer {
     private String mindset     = "Learn by building, not just by reading";
     private boolean curious    = true; // always true
 }
-```
+
 
 <br/>
 
