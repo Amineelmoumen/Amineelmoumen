@@ -38,14 +38,6 @@
 
 My approach: don't just pile up theoretical knowledge, but validate it in the field — internships, personal projects, practical certifications. Over the past year, I've completed about 30 specialized trainings (IBM, Coursera, LinkedIn Learning) to build a solid foundation in web development, cloud, DevOps, and artificial intelligence.
 
-```txt
-class AmineElMoumen implements Engineer {
-    private String education   = "AI & Data Science — EMSI";
-    private String[] domains   = {"Fullstack Development", "Data Science", "DevOps", "AI"};
-    private String mindset     = "Learn by building, not just by reading";
-    private boolean curious    = true; // always true
-}
-
 🎓 Education & Experience
 Education
 
@@ -342,4 +334,4 @@ https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoCol
 https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
 
 
-<img src="./banner.png" width="100%" alt="footer"/></div> ```
+<img src="./banner.png" width="100%" alt="footer"/></div>
