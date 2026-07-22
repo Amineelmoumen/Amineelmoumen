@@ -339,8 +339,15 @@ class AmineElMoumen implements Engineer {
 
 ## 📊 Activity & Statistics
 
-<div align="center"><table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amineelmoumen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <br /> <sub>📈 GitHub Stats</sub> </td> <td align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amineelmoumen&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <br /> <sub>🔥 GitHub Streak</sub> </td> </tr> </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amineelmoumen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amineelmoumen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
+<img src="https://streak-stats.demolab.com/?user=Amineelmoumen&theme=tokyonight&hide_border=true" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amineelmoumen&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amineelmoumen&theme=tokyo-night&hide_border=true" width="98%" />
+
+</div>
 
 ## 🧭 Roadmap 2026–2027
 
